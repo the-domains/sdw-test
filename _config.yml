@@ -1,0 +1,14 @@
+layout_spectrum: 0.6511662823613733
+typography_spectrum: 0.38820242253132164
+color:
+  brandStrength: 0.4044624143280089
+  lightness: 0.3306256018113345
+  saturation: 0.04892742191441357
+  rhythmicContrast: 0.112748694838956
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+name: SDW Test
